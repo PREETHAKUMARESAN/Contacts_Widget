@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contList" type="id"/>
+    <item name="ser_btn" type="id">search</item>
+    <item name="ser_txt" type="id">searchnumber</item>
+    <item name="AddIt" type="id">add</item>
+</resources>
